@@ -11,7 +11,7 @@
 
 - 🚘 Currently Driving: **Chevrolet Equinox & Alfa Romeo Stelvio**
 
-- 🚘 Past Rides: **Jeep Grand Cherokee, Buick Encore, Audi A8, Dodge Dakota, Pontiac Vibe, Toyota Camry**
+- 🚘 Past Rides: **Jeep Grand Cherokee, Buick Encore, Audi A6, Chrysler 300, Dodge Dakota, Pontiac Vibe, Toyota Camry**
 
 - 💬 Ask me about: Anything related to digital marketing!
 

@@ -3,7 +3,7 @@
 <br>
 <p align="left">
 
-- 💫 My **Data Analyst Portfolio** is at: [Data Analyst Portfolio](https://github.com/)
+- 💫 My **Data Analyst Portfolio** is at: [Data Analyst Portfolio](https://github.com/Prockentine/data-analyst-portfolio)
 
 - 👨‍💻 My **Tableau** Projects are at:
 

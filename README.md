@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Patricia 👋</h1>
-<p align="center">A data analyst with a passion for crunching numbers and revving up digital marketing strategies in the automotive world!</p>
+<p align="center">A data analyst passionate about data analytics and visualization, with expertise in digital marketing across the automotive, financial, and healthcare industries!</p>
 <br>
 <p align="left">
 

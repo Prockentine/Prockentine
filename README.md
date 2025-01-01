@@ -67,6 +67,8 @@
 <a href="https://www.linkedin.com/in/ppompeo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prockentine&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/prockentine/github-readme-stats)
+
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=prockentine&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/prockentine)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prockentine)
